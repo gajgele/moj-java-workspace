@@ -1,0 +1,24 @@
+import java.util.Scanner;
+
+public class App {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner input = new Scanner(System.in);
+		
+		System.out.println("Unesite sve vase podatke: ");
+		
+		String line = input.nextLine();
+		//String line = input.nextLine();
+		//String line = input.nextLine();
+		
+		System.out.println("Vasi podaci su: " + line);
+		
+		input.close();
+		
+		
+		
+
+	}
+
+}
