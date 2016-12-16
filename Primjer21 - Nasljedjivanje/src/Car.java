@@ -1,11 +1,11 @@
 public class Car extends Machine {
      
      
-    @Override
+ /*   @Override
     public void start() {
         System.out.println("Auto ukljuceno.");
     }
- 
+ */
     public void wipeWindShield() {
         System.out.println("Brisaci ukljuceni.");
     }

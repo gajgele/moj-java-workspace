@@ -19,7 +19,6 @@ INDEX VERSION 1.129+C:\Users\gajic\Desktop\workspace\.metadata\.plugins\org.ecli
 1453377649.index
 519718095.index
 2247627989.index
-1455230264.index
 1800461576.index
 3976905705.index
 2480322717.index
